@@ -7,4 +7,5 @@ console.log("11");
 
 var a;
 var b;
+var c;
 </script>
