@@ -5,7 +5,7 @@ function aa(a){
 
 console.log("11");
 
-var a;
+var d;
 var b;
 var c;
 </script>
