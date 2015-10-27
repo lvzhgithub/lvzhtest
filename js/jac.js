@@ -5,4 +5,6 @@ function aa(a){
 
 console.log("11");
 
+var a;
+var b;
 </script>
